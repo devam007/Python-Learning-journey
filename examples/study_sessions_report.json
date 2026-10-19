@@ -1,0 +1,29 @@
+{
+  "rows": 5,
+  "columns": {
+    "topic": {
+      "type": "text",
+      "missing": 0,
+      "nonmissing": 5,
+      "distinct": 4
+    },
+    "minutes": {
+      "type": "numeric",
+      "missing": 0,
+      "nonmissing": 5,
+      "distinct": 5,
+      "min": 30.0,
+      "max": 75.0,
+      "mean": 52.0
+    },
+    "exercises": {
+      "type": "numeric",
+      "missing": 1,
+      "nonmissing": 4,
+      "distinct": 4,
+      "min": 4.0,
+      "max": 8.0,
+      "mean": 5.75
+    }
+  }
+}
