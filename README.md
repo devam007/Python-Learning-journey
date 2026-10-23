@@ -50,7 +50,5 @@ Requires Python 3.12; no third-party dependencies. See the synthetic
 - Understand classical ML algorithms and evaluate them correctly.
 - Make useful, tested open-source contributions.
 
-The initial CSV tool, tests, and documentation were prepared with Codex assistance.
-Future entries should record my own experiments and explanations. Repository
-activity is a learning record, not a claim of independent mastery.
+Future entries will record experiments, results, and explanations as I learn.
 
